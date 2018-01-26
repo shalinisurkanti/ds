@@ -43,8 +43,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArraysCollection.cs" />
+    <Compile Include="BinarySearchTrees.cs" />
+    <Compile Include="Graphs.cs" />
+    <Compile Include="heaps.cs" />
+    <Compile Include="helper.cs" />
+    <Compile Include="Linkedlists.cs" />
+    <Compile Include="matrix.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sorting.cs" />
+    <Compile Include="Strings.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
